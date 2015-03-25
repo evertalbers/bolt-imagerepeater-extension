@@ -2,7 +2,7 @@
 
 This extension adds a repeating image contenttype as an option to be used in contenttypes.yml
 
-Configuration is acheived by adding this inside one of the contenttypes.
+Configuration is achieved by adding this inside one of the contenttypes.
 
 ```
 fields:
